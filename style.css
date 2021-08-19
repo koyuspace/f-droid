@@ -6,7 +6,6 @@ body {
     color: #fff;
     font-family: 'Didact Gothic', sans-serif;
     text-align: center;
-    padding: 20px;
 }
 
 a {
@@ -26,6 +25,10 @@ a {
     vertical-align: middle;
 }
 
+img {
+    border-radius: 10px;
+}
+
 h1 {
     font-family: 'Titan One', sans-serif;
     font-weight: 300;
@@ -37,5 +40,6 @@ h1 {
     body {
         width: 30%;
         margin: 0 auto;
+        padding-top: 30px;
     }
 }
