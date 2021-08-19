@@ -14,7 +14,6 @@ body {
 
 a {
     color: #00b7ff;
-    word-break: break-all;
 }
 
 .url {
@@ -23,6 +22,7 @@ a {
     padding: 20px;
     border-radius: 8px;
     color: green;
+    word-break: break-all;
 }
 
 .f-droid {
