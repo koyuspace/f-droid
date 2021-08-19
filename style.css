@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic');
+
+body {
+    background: #223;
+    color: #fff;
+    font-family: 'Didact Gothic', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+
+a {
+    color: #00b7ff;
+}
+
+h1 {
+    font-family: 'Titan One', sans-serif;
+    font-weight: 300;
+    color: #fe53e1;
+}
+
+@media(min-width: 800px) {
+    body {
+        width: 30%;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--create-metadata"
+  ],
+  "startTimestamp": 1629389794000,
+  "subcommand": "update"
+}

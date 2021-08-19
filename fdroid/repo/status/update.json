@@ -1,0 +1,1 @@
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--create-metadata"],"disabled":[],"endTimestamp":1629393398554,"failedBuilds":{},"noPackages":["com.Sommerlichter.social"],"startTimestamp":1629389794000,"subcommand":"update"}
