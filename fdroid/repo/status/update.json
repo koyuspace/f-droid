@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-c"],"disabled":[],"endTimestamp":1629399172020,"failedBuilds":{},"noPackages":["com.Sommerlichter.social"],"startTimestamp":1629395557000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-c"],"disabled":[],"endTimestamp":1629399770943,"failedBuilds":{},"noPackages":["com.Sommerlichter.social"],"startTimestamp":1629396156000,"subcommand":"update"}
